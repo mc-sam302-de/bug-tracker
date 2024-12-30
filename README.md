@@ -1,4 +1,5 @@
-[![][banner]][banner-href]
+<img src="./meta/banner.png" width="830px">
+
 ![][shield-open-issues] ![][shield-closed-issues]
 
 > [!IMPORTANT]
